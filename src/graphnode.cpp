@@ -10,8 +10,8 @@ GraphNode::~GraphNode()
 {
     //// STUDENT CODE
     ////
-
-    delete _chatBot; 
+//_chatBot is managed by chatlogic
+//    delete _chatBot;
 
     ////
     //// EOF STUDENT CODE
